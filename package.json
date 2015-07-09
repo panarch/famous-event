@@ -1,0 +1,19 @@
+{
+  "name": "famous-event",
+  "version": "0.3.0",
+  "description": "Events: Famous eventing libraries =================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/panarch/famous-event.git"
+  },
+  "author": "Taehoon Moon <panarch@kaist.ac.kr> (https://github.com/panarch)",
+  "license": "MPL v2.0",
+  "bugs": {
+    "url": "https://github.com/panarch/famous-event/issues"
+  },
+  "homepage": "https://github.com/panarch/famous-event"
+}
